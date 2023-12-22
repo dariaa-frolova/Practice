@@ -1,0 +1,6 @@
+D:\учеба\УЧЕБНАЯ ПРАКТИКА\учебная практика 1.5\exe1\bin\Debug\exe1.exe
+D:\учеба\УЧЕБНАЯ ПРАКТИКА\учебная практика 1.5\exe1\bin\Debug\exe1.pdb
+D:\учеба\УЧЕБНАЯ ПРАКТИКА\учебная практика 1.5\exe1\obj\Debug\exe1.csproj.AssemblyReference.cache
+D:\учеба\УЧЕБНАЯ ПРАКТИКА\учебная практика 1.5\exe1\obj\Debug\exe1.csproj.CoreCompileInputs.cache
+D:\учеба\УЧЕБНАЯ ПРАКТИКА\учебная практика 1.5\exe1\obj\Debug\exe1.exe
+D:\учеба\УЧЕБНАЯ ПРАКТИКА\учебная практика 1.5\exe1\obj\Debug\exe1.pdb
